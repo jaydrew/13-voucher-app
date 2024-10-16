@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 
 const VoucherList = () => {
   return (
-    <div className="">
+    <div className="mt-3">
       <div className="flex justify-between mb-3">
         <div className="">
           <div className="relative mb-3">

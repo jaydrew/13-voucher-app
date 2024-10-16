@@ -1,6 +1,6 @@
 import React from 'react'
 import Breadcrumb from '../components/BreadCrumb'
-import { Container } from '../components/Container'
+import  Container from '../components/Container'
 import VoucherList from '../components/VoucherList'
 
 const VoucherPage = () => {
