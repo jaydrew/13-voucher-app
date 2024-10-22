@@ -6,7 +6,7 @@ const SalePage = () => {
   return (
    <section>
     <Container>
-    <Breadcrumb currentPageTitle={"Sale Module"} />
+    <Breadcrumb currentPageTitle={"Sale Module"}  />
     </Container>
    </section>
   )

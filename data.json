@@ -1,65 +1,65 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "product_name": "Website Performance & Speed Optimization",
-            "price": 100,
-            "created_at": "2024-09-14T02:27:16Z"    
-        },
-        {
-            "id": 2,
-            "product_name": "Website Design Service",
-            "price": 500,
-            "created_at": "2024-09-18T10:15:32Z"
-        },
-        {
-            "id": 3,
-            "product_name": "E-commerce Website Development",
-            "price": 1500,
-            "created_at": "2024-09-22T12:22:45Z"
-        },
-        {
-            "id": 4,
-            "product_name": "SEO Optimization Package",
-            "price": 300,
-            "created_at": "2024-09-25T08:40:12Z"
-        },
-        {
-            "id": 5,
-            "product_name": "Web Hosting & Maintenance",
-            "price": 200,
-            "created_at": "2024-09-29T14:30:00Z"
-        },
-        {
-            "id": 6,
-            "product_name": "Custom Web Application Development",
-            "price": 2500,
-            "created_at": "2024-10-01T09:50:18Z"
-        },
-        {
-            "id": 7,
-            "product_name": "Content Management System (CMS) Setup",
-            "price": 800,
-            "created_at": "2024-10-03T11:00:00Z"
-        },
-        {
-            "id": 8,
-            "product_name": "Website Security Audit & Enhancement",
-            "price": 600,
-            "created_at": "2024-10-05T13:15:27Z"
-        },
-        {
-            "id": 9,
-            "product_name": "Mobile-Responsive Website Conversion",
-            "price": 700,
-            "created_at": "2024-10-07T15:30:45Z"
-        },
-        {
-            "id": 10,
-            "product_name": "API Integration & Development",
-            "price": 1200,
-            "created_at": "2024-10-09T08:20:10Z"
-        }
-    ]
-    
+  "products": [
+      {
+          "id": 1,
+          "product_name": "Website Performance & Speed Optimization",
+          "price": 100,
+          "created_at": "2024-09-14T02:27:16Z"    
+      },
+      {
+          "id": 2,
+          "product_name": "Website Design Service",
+          "price": 500,
+          "created_at": "2024-09-18T10:15:32Z"
+      },
+      {
+          "id": 3,
+          "product_name": "E-commerce Website Development",
+          "price": 1500,
+          "created_at": "2024-09-22T12:22:45Z"
+      },
+      {
+          "id": 4,
+          "product_name": "SEO Optimization Package",
+          "price": 300,
+          "created_at": "2024-09-25T08:40:12Z"
+      },
+      {
+          "id": 5,
+          "product_name": "Web Hosting & Maintenance",
+          "price": 200,
+          "created_at": "2024-09-29T14:30:00Z"
+      },
+      {
+          "id": 6,
+          "product_name": "Custom Web Application Development",
+          "price": 2500,
+          "created_at": "2024-10-01T09:50:18Z"
+      },
+      {
+          "id": 7,
+          "product_name": "Content Management System (CMS) Setup",
+          "price": 800,
+          "created_at": "2024-10-03T11:00:00Z"
+      },
+      {
+          "id": 8,
+          "product_name": "Website Security Audit & Enhancement",
+          "price": 600,
+          "created_at": "2024-10-05T13:15:27Z"
+      },
+      {
+          "id": 9,
+          "product_name": "Mobile-Responsive Website Conversion",
+          "price": 700,
+          "created_at": "2024-10-07T15:30:45Z"
+      },
+      {
+          "id": 10,
+          "product_name": "API Integration & Development",
+          "price": 1200,
+          "created_at": "2024-10-09T08:20:10Z"
+      }
+  ]
+  
 }

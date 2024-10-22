@@ -7,7 +7,7 @@ const VoucherPage = () => {
   return (
    <section>
     <Container>
-    <Breadcrumb currentPageTitle={"Voucher Module"} />
+    <Breadcrumb currentPageTitle={"Voucher Module"} links={[]}/>
     <VoucherList />
     </Container>
    </section>
